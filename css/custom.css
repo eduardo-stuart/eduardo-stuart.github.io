@@ -1,0 +1,37 @@
+body {
+    background-image: url("/imgs/fundo.jpg");
+    background-repeat: repeat;
+}
+
+div.wrapper.flex {
+    background-color: #E2DCCD;
+}
+
+.logo {
+    background-image: url("/imgs/header.jpg");
+    background-repeat: no-repeat;
+}
+
+img.logo__img {
+    border-radius: 50%;
+    border: 5px solid #def;
+}
+
+div.logo__title {
+    color: #def;
+    text-shadow: 2px 2px #222;
+}
+
+div.logo__tagline {
+    color: #def;
+    font-size: large;
+    text-shadow: 2px 2px #222;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+}
