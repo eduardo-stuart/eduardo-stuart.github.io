@@ -18,14 +18,14 @@ img.logo__img {
 }
 
 div.logo__title {
-    color: #def;
-    text-shadow: 2px 2px #222;
+    color: #fff;
+    text-shadow: 2px 2px 4px #222;
 }
 
 div.logo__tagline {
-    color: #def;
+    color: #fff;
     font-size: large;
-    text-shadow: 2px 2px #222;
+    text-shadow: 1px 1px 4px #222;
 }
 
 img {

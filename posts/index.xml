@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Eduardo Stuart</title>
-    <link>/posts/</link>
+    <link>https://eduardostuart.pro.br/posts/</link>
     <description>Recent content in Posts on Eduardo Stuart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eduardostuart.pro.br/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eduardo Stuart&#39;s Relics: Acervo Completo</title>
-      <link>/posts/2020/06/eduardo-stuart-s-relics-acervo-completo/</link>
+      <link>https://eduardostuart.pro.br/posts/2020/06/eduardo-stuart-s-relics-acervo-completo/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/06/eduardo-stuart-s-relics-acervo-completo/</guid>
+      <guid>https://eduardostuart.pro.br/posts/2020/06/eduardo-stuart-s-relics-acervo-completo/</guid>
       <description>Por quase uma década, tive o enorme privilégio de trabalhar em alguns dos mais prestigiados veículos de comunicação dedicados ao fascinante mundo da tecnologia.
 Em 2004, a partir do convite da editora Cora Rónai, passei a colaborar regularmente para o Informática &amp;amp; Etc, lendário caderno de tecnologia que era encartado, todas as segundas-feiras, no jornal O GLOBO.
 Com a sua reformulação, em 2006, o caderno mudou o nome para Info &amp;amp; ETC, e passei a assinar uma coluna semanal, dedicada a abordar dicas sobre tecnologia e tratar sobre entretenimento digital.</description>
