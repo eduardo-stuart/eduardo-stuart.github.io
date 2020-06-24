@@ -1,5 +1,5 @@
 body {
-    background-image: url("/imgs/fundo.jpg");
+    background-image: url("/imgs/fundo.webp");
     background-repeat: repeat;
 }
 
@@ -8,7 +8,7 @@ div.wrapper.flex {
 }
 
 .logo {
-    background-image: url("/imgs/header.jpg");
+    background-image: url("/imgs/header.webp");
     background-repeat: no-repeat;
 }
 
